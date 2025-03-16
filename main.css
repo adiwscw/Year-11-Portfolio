@@ -271,5 +271,11 @@ form .btn{
     padding: 14px 60px;
     font-size: 18px;
     margin-top: 20px;
-    cursor: pointer     ;
+    cursor: pointer;
+}
+
+#span{
+    color: white;
+    margin-top: -40px;
+    display: block;
 }
