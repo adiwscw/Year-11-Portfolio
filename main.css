@@ -280,3 +280,7 @@ form .btn{
     margin-top: -40px;
     display: block;
 }
+
+.work a {
+    color: inherit;
+}
